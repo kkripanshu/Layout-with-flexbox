@@ -15,7 +15,7 @@ Tailwind CSS: For utility-first styling.
 React Hooks: Utilized useState and useEffect to manage the state and implement the typing animation.
 How to Run:
 Clone the repository:
-git clone https://github.com/your-username/flexbox-layout-changer.git
+git clone https://github.com/kkripanshu/flexbox-layout-changer.git
 
 Navigate into the project folder:
 cd flexbox-layout-changer
